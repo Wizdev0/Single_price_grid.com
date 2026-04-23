@@ -208,7 +208,7 @@ body{
     width: 100%;
     gap: 20px;
     padding: 35px;
-    border-bottom-left-radius: 5px;
+    border-radius: 0;
 }
 
 .box_two_h2{
@@ -258,6 +258,7 @@ body{
     width: 100%;
     background-color: hsl(179, 70%, 63%);
     border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
     padding: 40px;
     font-family: "karla", sans-serif;
     gap: 35px;
